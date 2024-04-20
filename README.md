@@ -1,4 +1,4 @@
-El uso de Figma para maquetacion solo funciona para realizar tu pagina o aplicacion Web.
+El uso de Figma para maquetación sólo funciona para realizar tu pagina o aplicacion Web.
 La aplicacion es para diseño grafico.
 Los plugins  son herramienbtas utiles; Frame+ es otra aplicacion con la extencion en la pagina de Figma.
 se puede publicar en frame los detalles que suelen ocurrir en el desarrollo no permiten una operacion limpia lo cual cuando se pase del trabajo de figma a frame este no lo pasara completo por lo cual hay que modificar si es necesario, en frame puedes 
