@@ -16,3 +16,7 @@ Los plugins de figma en html son incompatibles pues al momento de hacer la conve
 ![Figma](https://github.com/iviboot/012-DesarrolloWeb/assets/126647369/7866d041-2003-4a36-9440-c9022df59ab8)
 
 https://iviboot.github.io/012-DesarrolloWeb/
+
+Las rutas relativas se usan con un punto o dos puntos para seleccionar la interacción entre páginas del mismo proyecto.
+
+"./index.html" con un punto o "../index.html" esto dependiendo de la ruta asignada para la carpeta principal y las subcarpetas así sucesivamente.
