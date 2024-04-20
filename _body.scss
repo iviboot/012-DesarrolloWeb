@@ -1,4 +1,8 @@
 body{
     font-family: Arial, sans-serif;
-  
+  a {
+    text-decoration: none; /* Quita el subrayado */
+    color: inherit; /* Hereda el color del texto del elemento padre */
+  }
 }
+
