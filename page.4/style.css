@@ -1,0 +1,156 @@
+@charset "UTF-8";
+.h31 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 4em;
+  margin-left: 1em;
+}
+
+.h32 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 4em;
+}
+
+.h33 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 4em;
+}
+
+img, content {
+  max-width: 100%; /* La imagen ocupará como máximo el 100% del ancho del contenedor */
+  height: auto;
+}
+
+h4 {
+  color: azure;
+}
+
+#p1, .p1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px; /* Cambia el tamaño de la fuente según lo necesites */
+  background: linear-gradient(to right, #ffffff, #02c0b0);
+  -webkit-background-clip: text; /* Propiedad para aplicar el degradado al texto */
+  color: transparent; /* Hace que el texto sea transparente */
+  height: 200px;
+  font-size: 30px; /* Tamaño de la fuente ajustado a 36px, ajusta según sea necesario */
+}
+
+h1 {
+  color: rgb(10, 124, 124);
+}
+
+.content {
+  display: flex;
+  background: linear-gradient(to right, #77cfa6, #07a3fd);
+  height: 5em;
+}
+
+#img1 {
+  max-width: 100%; /* La imagen ocupará como máximo el 100% del ancho del contenedor */
+  height: auto;
+  width: 180vh;
+}
+
+.div1 {
+  width: 1200px;
+  display: flex;
+}
+
+.div2 {
+  width: 320px;
+  display: flex;
+}
+
+.contacto {
+  color: aliceblue;
+  width: 100px;
+}
+
+.css {
+  color: aliceblue;
+  width: 40px;
+}
+
+.html {
+  color: aliceblue;
+  width: 60px;
+}
+
+.conent2 {
+  position: relative;
+  display: inline-block;
+}
+
+button {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  width: 130px;
+  background: linear-gradient(rgb(0, 217, 255), rgb(42, 228, 5));
+  font-size: x;
+  color: azure;
+  border: none;
+}
+
+footer {
+  display: flex;
+  background-color: aqua;
+  background: linear-gradient(transparent, rgb(21, 131, 196));
+}
+
+.content5 {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.content6 {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.content7 {
+  background: linear-gradient(rgb(119, 189, 236), rgb(146, 255, 191));
+}
+
+.content8 {
+  background: linear-gradient(rgb(19, 180, 113), rgb(152, 238, 238));
+  border-radius: 20px;
+  width: 100%;
+}
+
+.cuadrado {
+  background-color: rgb(205, 163, 245);
+  border: 2px solid #000; /* Define un borde de 2px de ancho y color negro */
+  border-color: #00adfd;
+}
+
+.img2 {
+  max-width: 100%;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 5px; /* Mueve el elemento hacia la derecha 20px */
+  border-width: 10px; /* Ancho del borde */
+  border: 3px solid #0acece;
+}
+
+#img1 {
+  height: 27em;
+}
+
+#img4 {
+  width: 100%; /* La imagen ocupará como máximo el 100% del ancho del contenedor */
+  height: 25em;
+}
+
+#img6 {
+  width: 100%;
+  height: 25em;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}/*# sourceMappingURL=style.css.map */

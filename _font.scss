@@ -1,0 +1,41 @@
+.h31{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4em;
+    margin-left: 1em;
+    
+}
+.h32{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4em;
+    
+}
+
+.h33{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4em;
+}
+
+img, content{
+    max-width: 100%; /* La imagen ocupará como máximo el 100% del ancho del contenedor */
+  height: auto;
+}
+h4{
+    color: azure;
+}
+
+#p1, .p1{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px; /* Cambia el tamaño de la fuente según lo necesites */
+  background: linear-gradient(to right, #ffffff, #02c0b0);
+  -webkit-background-clip: text; /* Propiedad para aplicar el degradado al texto */
+  color: transparent; /* Hace que el texto sea transparente */
+  height: 200px;
+  font-size: 30px; /* Tamaño de la fuente ajustado a 36px, ajusta según sea necesario */
+}
+
+h1{
+    color: rgb(10, 124, 124);
+}

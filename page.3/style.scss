@@ -1,0 +1,14 @@
+@import "../font";
+@import "../content";
+@import "../img";
+@import "../body";
+body{
+    background-color: black;
+    
+}
+
+@media (min-width: 1100px) and (min-height: 866px) {
+    #img6 {
+      display: none; /* Oculta la imagen con ID img6 cuando la pantalla es más grande que 1100 x 866 */
+    }
+  }
