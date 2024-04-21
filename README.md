@@ -3,7 +3,7 @@ La aplicación es para diseño gráfico.
 Los plugins  son herramientas útiles; Frame+ es otra aplicación con la extención en la página de Figma.
 sé puede publicar en frame los detalles que suelen ocurrir en el desarrollo no permiten una operación limpia lo cual cuándo se pasé del trabajó de figma a frame este no lo pasará completó por lo cuál hay que modificar si es necesario, en frame puedes 
 modicar y publicar la página.
-En resúmen nos saldríamos del desarrollo web y entramos mas al diseñó grafico.
+En resúmen nos saldríamos del desarrollo web y entramos mas al diseñó grafico. 
 
 
 
